@@ -1,0 +1,28 @@
+name: Elemental Mystics
+favicon: null
+layout_spectrum: 0.8524267247412354
+typography_spectrum: 0.16388440947048366
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.9800042191054672
+  lightness: 0.3680504721123725
+  saturation: 0.06673399591818452
+  rhythmicContrast: 0.1833839404862374
+purpose: []
