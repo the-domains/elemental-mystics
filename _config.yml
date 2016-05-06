@@ -1,7 +1,7 @@
 name: Elemental Mystics
 favicon: null
-layout_spectrum: 0.8524267247412354
-typography_spectrum: 0.16388440947048366
+layout_spectrum: 1
+typography_spectrum: 0.53712
 title: Elemental Mystics
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#ffffff'
+    - '#040707'
+    - '#484949'
+    - '#b7b8b8'
+    - '#959797'
   brandStrength: 0.9800042191054672
   lightness: 0.3680504721123725
   saturation: 0.06673399591818452
