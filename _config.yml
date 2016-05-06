@@ -1,5 +1,7 @@
-title: Elemental Mystics
-purpose: []
+name: Elemental Mystics
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.53712
 collections:
   - index:
       path: /
@@ -12,30 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Elemental Mystics
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.06673399591818452
-  brandStrength: 0.9800042191054672
-  lightness: 0.3680504721123725
   brandColors:
     - '#000000'
     - '#221E1F'
     - '#FFFFFF'
     - '#BAB9B9'
     - '#595657'
+  brandStrength: 0.9800042191054672
+  lightness: 0.3680504721123725
+  saturation: 0.06673399591818452
   rhythmicContrast: 0.1833839404862374
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Elemental Mystics
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.53712
-layout_spectrum: 1
+purpose: []
